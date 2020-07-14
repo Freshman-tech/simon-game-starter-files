@@ -1,0 +1,15 @@
+{
+  "name": "freshman-simon",
+  "version": "1.0.0",
+  "description": "A Simon game made with JavaScript",
+  "main": "main.js",
+  "repository": "github.com/Freshman-tech/simon-game-starter-files",
+  "author": "Ayooluwa Isaiah",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx browser-sync start -sw"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
